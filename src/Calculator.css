@@ -1,0 +1,57 @@
+.TheContainer {
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    height: 50%;
+    background-color: rgb(231, 231, 231);
+    border-radius: 10px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.theForm {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.AddAge {
+    border-radius: 5px;
+    display: flex;
+    height: 50px;
+    width: 80%;
+    border: 2px solid #242424;
+    padding: 0px 20px;
+    font-size: 25px;
+    text-align: center;
+}
+
+.ShowYear {
+    border-radius: 5px;
+    display: flex;
+  
+    padding-top: 20px;
+    border: none;
+    background-color: transparent;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.btn {
+    border: 2px solid #242424;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.buttt{
+    padding-top: 30px;
+}
